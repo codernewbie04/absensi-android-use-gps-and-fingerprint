@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95574058311",
+    "firebase_url": "https://sman1garut-2a596.firebaseio.com",
+    "project_id": "sman1garut-2a596",
+    "storage_bucket": "sman1garut-2a596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95574058311:android:a27c038be4ab1f4a",
+        "android_client_info": {
+          "package_name": "id.sch.sman1garut.app.sman1garut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95574058311-ujai69pkrlmpk8smamuerpqbro109g52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.sman1garut.app.sman1garut",
+            "certificate_hash": "db8c32f90e5688974c72dd2949efa4207dfeb30f"
+          }
+        },
+        {
+          "client_id": "95574058311-sgp7arqq0ad4047pvq0m5knqv550g9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9EM96MAJpcwIQ8sjkQ3YIPmfFmK8MgFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95574058311-sgp7arqq0ad4047pvq0m5knqv550g9kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

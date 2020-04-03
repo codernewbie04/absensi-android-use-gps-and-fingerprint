@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SMAN 1 GARUT</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYW1mMDA3IiwiYSI6ImNrM3IzcHhpYzA4ZTQzY2tpM2YwanU1bmIifQ.s6yK7AI2zjhs2lVuSIq6Pw</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="copyrigh_label">Copyrigh Label: Computer Club 91</string>
+    <string name="background_for_calendar">Background for Calendar</string>
+    <string name="internal_storage">Kumpang</string>
+    <string-array name="kelas">
+        <item>Pilih Kelas</item>
+        <item>X - MIPA 1</item>
+        <item>X - MIPA 2</item>
+        <item>X - MIPA 3</item>
+        <item>X - MIPA 4</item>
+        <item>X - MIPA 5</item>
+        <item>X - MIPA 6</item>
+        <item>X - MIPA 7</item>
+        <item>X - MIPA 8</item>
+        <item>X - MIPA 9</item>
+        <item>X - MIPA 10</item>
+        <item>X - IPS 1</item>
+        <item>X - IPS 2</item>
+        <item>X - IPS 3</item>
+
+        <item>XI - MIPA 1</item>
+        <item>XI - MIPA 2</item>
+        <item>XI - MIPA 3</item>
+        <item>XI - MIPA 4</item>
+        <item>XI - MIPA 5</item>
+        <item>XI - MIPA 6</item>
+        <item>XI - MIPA 7</item>
+        <item>XI - MIPA 8</item>
+        <item>XI - MIPA 9</item>
+        <item>XI - MIPA 10</item>
+        <item>XI - IPS 1</item>
+        <item>XI - IPS 2</item>
+        <item>XI - IPS 3</item>
+
+        <item>XII - MIPA 1</item>
+        <item>XII - MIPA 2</item>
+        <item>XII - MIPA 3</item>
+        <item>XII - MIPA 4</item>
+        <item>XII - MIPA 5</item>
+        <item>XII - MIPA 6</item>
+        <item>XII - MIPA 7</item>
+        <item>XII - MIPA 8</item>
+        <item>XII - MIPA 9</item>
+        <item>XII - MIPA 10</item>
+        <item>XII - IPS 1</item>
+        <item>XII - IPS 2</item>
+        <item>XII - IPS 3</item>
+
+    </string-array>
+</resources>
